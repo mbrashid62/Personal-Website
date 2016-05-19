@@ -1,8 +1,8 @@
 {
-  "name": "react-tutorial",
+  "name": "all-about-billiam",
   "version": "0.0.0",
-  "description": "Code from the React tutorial.",
-  "main": "server.js",
+  "description": "portfolio site",
+  "main": "app.js",
   "dependencies": {
     "body-parser": "^1.4.3",
     "express": "^4.4.5"
@@ -10,7 +10,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
